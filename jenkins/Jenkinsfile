@@ -1,8 +1,8 @@
 pipeline {
 
   environment {
-     registry = "atos06/ipiformation"
-     registryCredential = 'docker-hub-credentials'
+     registry = "azafiamy/servermds"
+     registryCredential = 'dockerhub-credential'
      dockerImage = ''
   }
 
