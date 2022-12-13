@@ -1,4 +1,4 @@
-
+Edition du readme
 
 ####### Configuration global de git ##########
 git config --global core.eol lf
@@ -30,5 +30,5 @@ sudo apt-get autoremove
 sudo apt-get install git
 
 -- si besoin de changer de user
-git config --global credential.username <user name git>
+git config --global credential.username <user name github>
 
